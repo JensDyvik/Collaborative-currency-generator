@@ -1,0 +1,1 @@
+A system for making 3D coins for digital fabrication based on hand drawn graphics. The drawings are scanned by webcam and used as a displacement map on each side of the coin. ShopBot toolpaths for 3D milling and STLs for 3D printing are automatically generated. Requries Rhino3D, and the plugins Grasshopper + Ghowl, Firefly, Weaverbird and LocalCode
